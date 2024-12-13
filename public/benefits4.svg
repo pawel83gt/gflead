@@ -1,0 +1,19 @@
+<svg width="66.000000" height="66.000000" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_380">
+			<rect id="Icon_-dollar_increase" rx="0.000000" width="65.000000" height="65.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Icon_-dollar_increase" rx="0.000000" width="65.000000" height="65.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_380)">
+		<path id="Vector 2454" d="M15.67 59.18L30.74 44.11L41.51 54.87L58.74 37.65" stroke="#7A6CF0" stroke-opacity="1.000000" stroke-width="3.500000"/>
+		<path id="Vector 2455" d="M44.21 37.65L58.74 37.65L58.74 52.17" stroke="#7A6CF0" stroke-opacity="1.000000" stroke-width="3.500000"/>
+		<path id="Ellipse 19" d="M19.61 43.55C11.79 41.15 6.1 33.86 6.1 25.25C6.1 14.68 14.68 6.11 25.25 6.11C35.82 6.11 44.4 14.68 44.4 25.25C44.4 26.92 44.18 28.53 43.78 30.07" stroke="#7A6CF0" stroke-opacity="1.000000" stroke-width="3.500000"/>
+		<path id="Vector 2947" d="M25.25 18.05L25.25 13.26" stroke="#7A6CF0" stroke-opacity="1.000000" stroke-width="3.500000"/>
+		<path id="Vector 2948" d="M25.25 37.19L25.25 32.41" stroke="#7A6CF0" stroke-opacity="1.000000" stroke-width="3.500000"/>
+		<path id="Vector 3037" d="M30.63 21.64L30.63 20.44C30.63 19.12 29.56 18.05 28.24 18.05L22.25 18.05C20.93 18.05 19.86 19.12 19.86 20.44L19.86 21.51C19.86 22.64 20.64 23.61 21.74 23.85L28.76 25.41C29.85 25.65 30.63 26.62 30.63 27.75L30.63 30.01C30.63 31.33 29.56 32.41 28.24 32.41L22.25 32.41C20.93 32.41 19.86 31.33 19.86 30.01L19.86 28.82" stroke="#7A6CF0" stroke-opacity="1.000000" stroke-width="3.500000"/>
+	</g>
+</svg>

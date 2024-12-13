@@ -1,0 +1,29 @@
+<svg width="54.000000" height="54.000000" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_16_299_dd" x="0.000000" y="0.000000" width="54.000000" height="54.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="6.66667"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip16_300">
+			<rect id="bullhorn-solid 1" rx="0.000000" width="38.000000" height="38.000000" transform="translate(6.500000 8.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip16_299">
+			<rect id="Icon / megaphone_line" rx="26.500000" width="53.000000" height="53.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_16_299_dd)">
+		<rect id="Icon / megaphone_line" rx="26.500000" width="53.000000" height="53.000000" transform="translate(0.500000 0.500000)" fill="#FFC107" fill-opacity="1.000000"/>
+		<g clip-path="url(#clip16_299)">
+			<rect id="bullhorn-solid 1" rx="0.000000" width="38.000000" height="38.000000" transform="translate(6.500000 8.000000)" fill="#FFFFFF" fill-opacity="0"/>
+			<g clip-path="url(#clip16_300)">
+				<path id="Vector" d="M40.12 11.19L38.18 12.6C38.18 12.6 35.75 14.4 32.27 16.18C28.79 17.96 24.26 19.68 20.28 19.68L8.43 19.68L8.43 30.8L8.47 31L10.91 39.53L11.17 40.4L18.56 40.4L18.14 38.84L16.16 31.87L20.28 31.87C24.21 31.87 28.74 33.63 32.24 35.41C35.73 37.2 38.18 38.96 38.18 38.96L40.12 40.36L40.12 29.21C41.53 28.7 42.56 27.35 42.56 25.78C42.56 24.2 41.53 22.86 40.12 22.35L40.12 11.19ZM37.68 15.72L37.68 35.79C36.67 35.11 35.87 34.49 33.34 33.2C29.76 31.38 25.14 29.52 20.62 29.43L20.62 22.12C25.18 22.03 29.81 20.14 33.38 18.31C35.91 17.02 36.68 16.4 37.68 15.72ZM10.87 22.12L18.18 22.12L18.18 29.43L10.87 29.43L10.87 22.12ZM11.29 31.87L13.61 31.87L15.33 37.96L13 37.96L11.29 31.87Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+			</g>
+		</g>
+		<rect id="Icon / megaphone_line" rx="26.500000" width="53.000000" height="53.000000" transform="translate(0.500000 0.500000)" stroke="#F1F1F4" stroke-opacity="0" stroke-width="1.000000"/>
+	</g>
+</svg>
